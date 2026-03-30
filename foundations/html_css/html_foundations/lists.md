@@ -15,6 +15,8 @@ This section contains a general overview of topics that you will learn in this l
 
 If you want to have a list of items where the order doesn't matter, like a shopping list of items that can be bought in any order, then you can use an unordered list.
 
+This are the list which are not numbered, shown just by bullet points.
+
 Unordered lists are created using [the `<ul>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ul), and <span id="li"></span>each item within the list is created using the list item element `<li>`.
 
 Each list item in an unordered list begins with a bullet point:
@@ -32,6 +34,8 @@ Each list item in an unordered list begins with a bullet point:
 ### Ordered lists
 
 If you instead want to create a list of items where the order *does* matter, like step-by-step instructions for a recipe, or your top 10 favorite TV shows, then you can use an ordered list.
+
+This works on priority and preference and allots numbers according to list.
 
 Ordered lists are created using [the `<ol>` element](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/ol). Each individual item in them is again created using the list item element `<li>`. However, each list item in an ordered list begins with a number instead:
 
